@@ -32,22 +32,52 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screen appears when you first launch the osTicket installer in your browser.
+
+It verifies whether your server meets minimum requirements, such as:
+PHP (usually 8.x)
+MySQL database
+Required PHP extensions (mysqli, XML, JSON, etc.)
+Items marked with ✅ mean everything is correctly configured.
+If there are ❌ errors, installation cannot proceed until they are fixed.
+
+
+osTicket automatically checks your environment before installation to prevent failures later.
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>This screen (or similar documentation view) shows what you must install before running osTicket.
+
+Typical requirements:
+
+Web server: Apache / IIS
+PHP: 8.1–8.4 (modern versions)
+Database: MySQL 5.5+
+PHP extensions (e.g., IMAP, XML, GD)
+
+
+These are external dependencies—you must install and configure them manually (e.g., using XAMPP, WAMP, or LAMP stack).
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>This screen appears after completing the installation process.
+
+osTicket has successfully:
+Created the database
+Written the configuration file (ost-config.php)
+Installed core components
+You click “Finish” to complete setup.
+
+
+
+Delete the /setup folder (security step)
+Log in to the admin panel
+Start configuring your helpdesk system
 </p>
 <br />
