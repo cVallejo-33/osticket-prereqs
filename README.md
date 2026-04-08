@@ -20,11 +20,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure basic system settings, including helpdesk name, email, and default preferences
+- Set up user roles, permissions, and departments for efficient ticket management
+- Configure email settings to enable ticket creation and notifications via email
+- Customize ticket settings, including SLA plans, priorities, and help topics
+- Secure and optimize the system by removing setup files and adjusting access controls
 
 <h2>Configuration Steps</h2>
 
