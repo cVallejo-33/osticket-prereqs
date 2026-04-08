@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1378" height="1120" alt="image" src="https://github.com/user-attachments/assets/04f5f586-f8fb-4191-a360-2b712417410f" />
 </p>
 <p>
 This screen appears when you first launch the osTicket installer in your browser.
@@ -47,7 +47,10 @@ osTicket automatically checks your environment before installation to prevent fa
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2171" height="1009" alt="image" src="https://github.com/user-attachments/assets/29a4b353-3846-41e0-8611-ce9bf1c6a76c" />
+
+
+
 </p>
 <p>This screen (or similar documentation view) shows what you must install before running osTicket.
 
