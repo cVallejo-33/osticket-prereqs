@@ -67,7 +67,8 @@ These are external dependencies—you must install and configure them manually (
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="939" height="804" alt="image" src="https://github.com/user-attachments/assets/627cb0cc-a06c-4c23-a3b1-663571df657f" />
+
 </p>
 <p>This screen appears after completing the installation process.
 
