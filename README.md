@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - osTicket Installation Configuration</h1>
+<h1>osTicket -Prerequisite/ osTicket Installation Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -18,7 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>osTicket Installation Objectives</h2>
+<h2>Prerequisite/ osTicket Installation Objectives</h2>
 
 - Configure basic system settings, including helpdesk name, email, and default preferences
 - Set up user roles, permissions, and departments for efficient ticket management
